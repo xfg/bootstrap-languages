@@ -1,7 +1,7 @@
 The _Languages for Bootstrap 3_ project provides a simple way to present
 language labels and names in a _Bootstrap 3_ project.
 
-Head over to the [documentation](http://usrz.github.io/bootstrap-languages)
+Head over to the [documentation](http://xfg.github.io/bootstrap-languages)
 pages for some hint on how languages are presented, and how to use this library.
 
 This project is distributed under the terms of the
@@ -10,7 +10,7 @@ This project is distributed under the terms of the
 Install from bower
 ==========
 ```bash
-bower install bootstrap-language
+bower install bootstrap-lang
 ```
 
 
