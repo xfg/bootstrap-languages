@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-language",
+  "version": "1.0.0",
+  "main": "languages.css",
+  "ignore": [
+    ".git",
+    "*.sh"
+  ]
+}
